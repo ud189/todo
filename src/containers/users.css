@@ -1,0 +1,14 @@
+.absolute-bottom {
+  position: absolute;
+  bottom: 100%;
+  right: 10px;
+  bottom: 10px;
+  background-color: indigo;
+  color: white;
+  height: 30px;
+}
+.absolute-right-top {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}

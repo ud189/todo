@@ -1,0 +1,26 @@
+.absolute-right-top {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.in-progress {
+  width: 50%;
+}
+.completed {
+  width: 50%;
+}
+.container {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+}
+
+.absolute-bottom {
+  position: absolute;
+  width: 100%;
+  right: 10px;
+  bottom: 10px;
+  background-color: indigo;
+  color: white;
+  height: 30px;
+}
